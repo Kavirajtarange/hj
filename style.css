@@ -1,0 +1,24 @@
+*{  
+    font-family: cursive;
+}
+body{
+font-size: 16px;
+
+}  
+#first>p{ 
+    color: green;
+}
+p:hover{
+    font-family:monospace ;
+}
+#first,#second{ color: blueviolet;}
+.purple
+{   color: purple ;   
+  font-family: monospace;            }
+  .highlight{
+    background-color: gold;
+    font-weight: bolder;  
+    font-style: italic;
+
+
+}
